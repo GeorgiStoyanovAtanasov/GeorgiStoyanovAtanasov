@@ -1,8 +1,11 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+My name is George, I'm a learning software developer interested in Full Stack Development.
+
+- 🔭 I’m currently on summer break.
+- 🌱 I’m currently learning Angular, AWS and German.
+- 👯 Looking to team up on Full Stack development projects with technologies I'm skilled in or actively learning.
+
 
 
 <!--
