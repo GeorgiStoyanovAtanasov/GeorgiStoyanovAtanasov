@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 🔭 I’m currently on summer break.<br>- 🌱 I’m currently learning Angular, AWS and German.<br>- 👯 I'm looking to team up on Full Stack development projects with technologies I'm skilled in or actively learning.<br>- 📫 How to reach me: Discord - witcher6199<br><br>
+- 🔭 I’m currently working at https://ludogoriesoft.com/.<br>- 🌱 I’m currently learning Angular, AWS and German.<br>- 👯 I'm looking to team up on Full Stack development projects with technologies I'm skilled in or actively learning.<br>- 📫 How to reach me: Discord - witcher6199<br><br>
 
 
 ## 🌐 Socials:
