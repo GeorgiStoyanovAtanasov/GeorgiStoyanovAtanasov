@@ -1,6 +1,5 @@
 # 💫 About Me:
-- 🔭 I’m currently working at [![LudogorieSoft](https://img.shields.io/badge/LudogorieSoft-0078D4?style=for-the-badge&logo=internet-explorer&logoColor=white)](https://ludogoriesoft.com/)
-.<br>- 🌱 I’m currently learning AWS and hope I have time to learn German.<br>- 👯 I'm looking to team up on Full Stack development projects with technologies I'm skilled in or actively learning.<br>- 📫 How to reach me: Discord - witcher6199<br><br>
+- 🔭 I’m currently working at [LudogorieSoft](https://ludogoriesoft.com/).<br>- 🌱 I’m currently learning AWS and preparing to learn German.<br>- 👯 I'm looking to team up on Full Stack development projects with technologies I'm skilled in or actively learning.<br>- 📫 How to reach me: Discord - witcher6199<br><br>
 
 
 ## 🌐 Socials:
